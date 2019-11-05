@@ -1,0 +1,5 @@
+The operating system provides the correct environment for software applications to function properly. Applications send 
+instructions to the operating system and the operating system insures the application instructions are followed so 
+the application works properly. Without an operating system, computer applications would have no foundation for 
+functionality, they would just be a plethora of codes that wouldn't be translated into anything usable. It's like speaking 
+Spanish to someone who doesn't understand it, it would be useless...
