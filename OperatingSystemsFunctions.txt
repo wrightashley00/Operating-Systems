@@ -6,3 +6,6 @@ Spanish to someone who doesn't understand it, it would be useless...
 
 
 The operating system helps to coordinate and insure all hardware functions properly and works in seamless unison throughout the computer. Without an operating system to translate all the different hardware languages, none of the hardware would work properly or provide the intended functions throughout the computer system. Various hardware devices require drivers which read the hardware and software languages and result in proper functionality for the user.
+
+
+The operating system provides the relationship (interface) between the use and the hardware and applications. The existence of the operating system is what allows you to decide what the computer does for you. When you click on a file or folder and it opens, that's because the operating system uses commands behind the scenes, to give the user the desired result. The operating system is in control of everything that takes place on the screen in front of you, it's the boss of all the functions and insures proper function between programs and hardware
