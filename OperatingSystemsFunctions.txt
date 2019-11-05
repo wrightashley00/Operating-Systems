@@ -3,3 +3,6 @@ instructions to the operating system and the operating system insures the applic
 the application works properly. Without an operating system, computer applications would have no foundation for 
 functionality, they would just be a plethora of codes that wouldn't be translated into anything usable. It's like speaking 
 Spanish to someone who doesn't understand it, it would be useless...
+
+
+The operating system helps to coordinate and insure all hardware functions properly and works in seamless unison throughout the computer. Without an operating system to translate all the different hardware languages, none of the hardware would work properly or provide the intended functions throughout the computer system. Various hardware devices require drivers which read the hardware and software languages and result in proper functionality for the user.
